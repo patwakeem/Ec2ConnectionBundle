@@ -1,5 +1,3 @@
-#!/usr/bin/python
-
 """
 Author: Patrick W.
 Date: 4/30/15
